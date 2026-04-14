@@ -1,4 +1,4 @@
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000"
+const API = process.env.NEXT_PUBLIC_API_URL || "https://erp-server-uty5.onrender.com"
 
 let memoryAccess: string | null = null
 let memoryRefresh: string | null = null
